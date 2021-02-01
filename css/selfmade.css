@@ -49,3 +49,7 @@
     border-bottom: 1px solid #ddd;
     padding-bottom:10px;
 }
+.aside-footer-footer > *{
+    color:#666;
+    font-size:5px;
+}
